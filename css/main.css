@@ -6,7 +6,6 @@ html {
   box-sizing: inherit;
 }
 
-
 .cards {
   margin: 0;
   padding: 0;
@@ -15,7 +14,7 @@ html {
 
 .cards li {
   display: inline-block;
-  margin: 0.5em 1em;
+  margin: 0 .5em 1em;
   max-width: 20em;
   padding: 1rem;
   background-color: #fff;
