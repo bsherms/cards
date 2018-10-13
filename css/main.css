@@ -26,3 +26,26 @@ html {
   border-radius: 10px;
   text-align: left;
 }
+
+.cards img {
+  display: block;
+  margin-bottom: 1rem;
+
+  font-size: 1.125rem;
+}
+
+.cards dl {
+  margin-bottom: 1rem;
+}
+
+.cards dt {
+  display: inline-block;
+  width: 6rem;
+  font-style: italic;
+}
+
+.cards dd {
+  display: inline-block;
+  margin: 0;
+  min-width: 9em;
+}
