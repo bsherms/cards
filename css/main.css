@@ -14,6 +14,7 @@ html {
   padding: 0;
   list-style-type: none;
   text-align: center;
+  font-style: strong;
 }
 
 .cards li {
